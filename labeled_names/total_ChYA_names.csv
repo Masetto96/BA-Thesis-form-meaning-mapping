@@ -1,0 +1,121 @@
+title,id,full_name,name_age,gender,rs_frequency,author,newID,age.stage.original,age_recoded,freq_sum,class
+WILSON_dustbinbaby_2001,april,April Johnson,AprilJohnson_14.0_char,female,1525,WILSON,April_Johnson_WILSON_char,14,young,3122,Talking
+ALMOND_jackdawsummer_2008,ball,Ball,Ball_adult_char,male,95,ALMOND,Ball_ALMOND_char,adult,old,95,Talking
+GAVIN_blackberryblue_2013,blue,Blackberry Blue,BlackberryBlue_infant_char,female,17,GAVIN,Blackberry_Blue_GAVIN_char,infant,young,249,Talking
+FINE_charmschool_1999,bonny,Bonny Bramble,BonnyBramble_latechild_char,female,1387,FINE,Bonny_Bramble_FINE_char,latechild,young,1393,Talking
+MURPHY_firstprizefortheworstwitch_2018,mrsbrilliantine,Brilliantine,Brilliantine_adult_char,female,143,MURPHY,Brilliantine_MURPHY_char,adult,old,279,Talking
+MURPHY_firstprizefortheworstwitch_2018,misscackle,Cackle,Cackle_adult_char,female,249,MURPHY,Cackle_MURPHY_char,adult,old,898,Talking
+ALMOND_countingstars_2000,cootchild,Coot,Coot_child_char,male,39,ALMOND,Coot_ALMOND_char,child,young,347,Talking
+ALMOND_kitswilderness_1999,dal,Dal,Dal_infant_char,female,174,ALMOND,Dal_ALMOND_char,infant,young,174,Talking
+GAVIN_blackberryblue_2013,dark,Dark,Dark_adult_char,male,121,GAVIN,Dark_GAVIN_char,adult,old,121,Talking
+GAVIN_blackberryblue_2013,day,Day,Day_adolescent_char,male,247,GAVIN,Day_GAVIN_char,adolescent,young,247,Talking
+GAVIN_blackberryblue_2013,desire,Desire,Desire_adolescent_char,female,351,GAVIN,Desire_GAVIN_char,adolescent,young,377,Talking
+CHAMBERS_breaktime_1978,ditto10,Ditto,Ditto_10.0_char,male,25,CHAMBERS,Ditto_CHAMBERS_char,10,young,2170,Talking
+FINE_onplanetfruitcake_2013,dove,Dove,Dove_adult_char,female,369,FINE,Dove_FINE_char,adult,old,369,Talking
+MURPHY_abadspellfortheworstwitch_1982,missdrill,Drill,Drill_adult_char,female,2,MURPHY,Drill_MURPHY_char,adult,old,174,Talking
+FINE_thestonemenagerie_1980,flora,Flora Henderson,FloraHenderson_adult_char,female,740,FINE,Flora_Henderson_FINE_char,adult,old,740,Talking
+ALMOND_clay_2005,fox,Fox,Fox_adult_char,male,87,ALMOND,Fox_ALMOND_char,adult,old,88,Talking
+ALMOND_thetaleofangelinobrown_2017,ground,Ground,Ground_adult_char,male,159,ALMOND,Ground_ALMOND_char,adult,old,159,Talking
+ROWLING_thecuckooscalling_2013,guy,Guy Somè,GuySomè_adult_char,male,601,ROWLING,Guy_ROWLING_char,adult,old,601,Talking
+FINE_stepbywickedstep_1995,romom,Hope,Hope_adult_char,female,185,FINE,Hope_FINE_char,adult,old,185,Talking
+GAVIN_blackberryblue_2013,joy,Joy,Joy_child_char,female,414,GAVIN,Joy_GAVIN_char,child,young,419,Talking
+GAVIN_blackberryblue_2013,just,Just,Just_infant_char,male,7,GAVIN,Just_GAVIN_char,infant,young,165,Talking
+FINE_goggleeyes_1989,kitty,Kitty Killin,KittyKillin_adolescent_char,female,1859,FINE,Kitty_Killin_FINE_char,adolescent,young,1859,Talking
+ROWLING_harrypotterandthechamberofsecrets_1998,lavender12,Lavender Brown,LavenderBrown_12.0_char,female,4,ROWLING,Lavender_Brown_ROWLING_char,12,young,292,Talking
+ALMOND_kitswilderness_1999,silky,Little Silky,LittleSilky_child_char,male,143,ALMOND,Little_Silky_ALMOND_char,child,young,143,Talking
+ROWLING_harrypotterandthechamberofsecrets_1998,myrtle,Moaning Myrtle,MoaningMyrtle_adolescent_char,female,176,ROWLING,Moaning_Myrtle_ROWLING_char,adolescent,young,176,Talking
+ALMOND_heaveneyes_2000,mouse,Mouse Gullane / Sean,MouseGullane/Sean_child_char,male,1017,ALMOND,Mouse_Gullane__Sean_ALMOND_char,child,young,1021,Talking
+PULLMAN_thehauntedstorm_1972,mrparrish,Parrish,Parrish_middleadult_char,male,14,PULLMAN,Parrish_PULLMAN_char,middleadult,old,112,Talking
+WILSON_dustbinbaby_2001,pearl,Pearl,Pearl_middlechild_char,female,167,WILSON,Pearl_WILSON_char,middlechild,young,167,Talking
+ROWLING_harrypotterandthechamberofsecrets_1998,sprout,Pomona Sprout,PomonaSprout_adult_char,female,61,ROWLING,Pomona_Sprout_ROWLING_char,adult,old,191,Talking
+ALMOND_mydadsabirdman_2007,mrpoop,Poop,Poop_adult_char,male,216,ALMOND,Poop_ALMOND_char,adult,old,216,Talking
+ROWLING_theickabog_2020,mrroachadult,Roach,Roach_adult_char,male,271,ROWLING,Roach_ROWLING_char,adult,old,277,Talking
+ALMOND_mynameismina_2010,scullery,Scullery,Scullery_adult_char,female,176,ALMOND,Scullery_ALMOND_char,adult,old,176,Talking
+ALMOND_clay_2005,skinner,Skinner,Skinner_adolescent_char,male,97,ALMOND,Skinner_ALMOND_char,adolescent,young,97,Talking
+GAVIN_theeyeofthehorse_1994,sparrow,Sparrow,Sparrow_child_char,male,290,GAVIN,Sparrow_GAVIN_char,child,young,290,Talking
+FINE_eatingthingsonsticks_2009,mum,Tansy,Tansy_middleadult_char,female,136,FINE,Tansy_FINE_char,middleadult,old,623,Talking
+ROWLING_harrypotterandthedeathlyhallows_2007,travers,Travers,Travers_adult_char,male,114,ROWLING,Travers_ROWLING_char,adult,old,117,Talking
+ROWLING_harrypotterandthegobletoffire_2000,winky,Winky,Winky_adult_char,female,534,ROWLING,Winky_ROWLING_char,adult,old,542,Talking
+GAVIN_blackberryblue_2013,fullwolf,Wolf,Wolf_adolescent_char,male,10,GAVIN,Wolf_GAVIN_char,adolescent,young,72,Talking
+PULLMAN_northernlights_1995,butler,Wren,Wren_adult_char,male,79,PULLMAN,Wren_PULLMAN_char,adult,old,79,Talking
+ALMOND_thefireeaters_2003,yak,Yak Spink,YakSpink_adolescent_char,male,189,ALMOND,Yak_Spink_ALMOND_char,adolescent,young,189,Talking
+FINE_thegrannyproject_1983,granny,Adelaide  Harris,AdelaideHarris_87.0_char,female,922,FINE,Adelaide__Harris_FINE_char,87,old,922,Real
+FINE_thestonemenagerie_1980,ally,Alasdair Seton,AlasdairSeton_adolescent_char,male,1596,FINE,Alasdair_Seton_FINE_char,adolescent,young,1596,Real
+PULLMAN_labellesauvage_2017,alice,Alice,Alice_15.0_char,female,2134,PULLMAN,Alice_PULLMAN_char,15,young,2134,Real
+ALMOND_kitswilderness_1999,allie,Allie Keenan,AllieKeenan_13.0_char,female,1225,ALMOND,Allie_Keenan_ALMOND_char,13,young,1225,Real
+FINE_thestonemenagerie_1980,auntchloe,Chloe Seton,ChloeSeton_adult_char,female,565,FINE,Chloe_Seton_FINE_char,adult,old,565,Real
+ALMOND_asongforellagrey_2014,claire,Claire Wilkinson,ClaireWilkinson_adolescent_char,female,1295,ALMOND,Claire_Wilkinson_ALMOND_char,adolescent,young,1393,Real
+ROWLING_thecuckooscalling_2013,wilson,Derrick Wilson,DerrickWilson_oldadult_char,male,570,ROWLING,Derrick_Wilson_ROWLING_char,oldadult,old,570,Real
+MURPHY_abadspellfortheworstwitch_1982,enid,Enid Nightshade,EnidNightshade_adolescent_char,female,102,MURPHY,Enid_Nightshade_MURPHY_char,adolescent,young,1293,Real
+MURPHY_abadspellfortheworstwitch_1982,ethel,Ethel Hallow,EthelHallow_adolescent_char,female,204,MURPHY,Ethel_Hallow_MURPHY_char,adolescent,young,1585,Real
+CHAMBERS_dyingtoknowyou_2012,fiorella,Fiorella,Fiorella_17.0_char,female,1248,CHAMBERS,Fiorella_CHAMBERS_char,17,young,1248,Real
+ALMOND_thetightropewalkers_2014,dad,Francis / Frank,Francis/Frank_adult_char,male,1249,ALMOND,Francis__Frank_ALMOND_char,adult,old,1249,Real
+ROWLING_thecuckooscalling_2013,freddie,Freddie Bestigui,FreddieBestigui_adult_char,male,677,ROWLING,Freddie_Bestigui_ROWLING_char,adult,old,677,Real
+ROWLING_harrypotterandthechamberofsecrets_1998,fred13,Fred Weasley,FredWeasley_13.0_char,male,1,ROWLING,Fred_Weasley_ROWLING_char,13,young,2657,Real
+ROWLING_harrypotterandthechamberofsecrets_1998,george13,George Weasley,GeorgeWeasley_13.0_char,male,1,ROWLING,George_Weasley_ROWLING_char,13,young,2379,Real
+FINE_goggleeyes_1989,gerald,Gerald Faulkner,GeraldFaulkner_fifties_char,male,1443,FINE,Gerald_Faulkner_FINE_char,fifties,old,1443,Real
+PULLMAN_labellesauvage_2017,gerard,Gerard Bonneville,GerardBonneville_forties_char,male,765,PULLMAN,Gerard_Bonneville_PULLMAN_char,forties,old,765,Real
+PULLMAN_thebrokenbridge_1990,ginny9,Ginny / Virginia,Ginny/Virginia_9.0_char,female,8,PULLMAN,Ginny__Virginia_PULLMAN_char,9,young,4183,Real
+FINE_crummymummyandme_1988,crusher,Harold Pollard,HaroldPollard_adult_char,male,586,FINE,Harold_Pollard_FINE_char,adult,old,586,Real
+FINE_thegrannyproject_1983,henry,Henry Harris,HenryHarris_42.0_char,male,731,FINE,Henry_Harris_FINE_char,42,old,731,Real
+FINE_uponcloudnine_2002,ianado,Ian James Paramour,IanJamesParamour_adolescent_char,male,1246,FINE,Ian_James_Paramour_FINE_char,adolescent,young,1461,Real
+ALMOND_mydadsabirdman_2007,dad,Jackie Crow,JackieCrow_adult_char,male,1003,ALMOND,Jackie_Crow_ALMOND_char,adult,old,1003,Real
+ALMOND_secretheart_2001,joe,Joseph  Maloney,JosephMaloney_adolescent_char,male,2589,ALMOND,Joseph__Maloney_ALMOND_char,adolescent,young,2589,Real
+CHAMBERS_dyingtoknowyou_2012,karl,Karl Williamson,KarlWilliamson_18.0_char,male,3744,CHAMBERS,Karl_Williamson_CHAMBERS_char,18,young,3745,Real
+ROWLING_thesilkworm_2014,kathryn,Kathryn Kent,KathrynKent_middleadult_char,female,833,ROWLING,Kathryn_Kent_ROWLING_char,middleadult,old,833,Real
+WILSON_dustbinbaby_2001,marion,Marion,Marion_adult_char,female,559,WILSON,Marion_WILSON_char,adult,old,559,Real
+MURPHY_firstprizefortheworstwitch_2018,maud,Maud Spellbody,MaudSpellbody_adolescent_char,female,432,MURPHY,Maud_Spellbody_MURPHY_char,adolescent,young,1318,Real
+MURPHY_abadspellfortheworstwitch_1982,mildredhub,Mildred Hubble,MildredHubble_adolescent_char,female,593,MURPHY,Mildred_Hubble_MURPHY_char,adolescent,young,6999,Real
+ALMOND_skellig_1998,mina,Mina,Mina_adolescent_char,female,1306,ALMOND,Mina_ALMOND_char,adolescent,young,1306,Real
+ALMOND_theboywhoclimbedintothemoon_2010,molly,Molly,Molly_fifties_char,female,386,ALMOND,Molly_ALMOND_char,fifties,old,482,Real
+FINE_thegrannyproject_1983,natasha,Natasha Dolgorova,NatashaDolgorova_adult_char,female,661,FINE,Natasha_Dolgorova_FINE_char,adult,old,661,Real
+ROWLING_lethalwhite_2018,nina,Nina Lascelles,NinaLascelles_adult_char,female,4,ROWLING,Nina_Lascelles_ROWLING_char,adult,old,488,Real
+FINE_eatingthingsonsticks_2009,ralph,Ralph,Ralph_middlechild_char,male,17,FINE,Ralph_FINE_char,middlechild,young,2478,Real
+FINE_goggleeyes_1989,mum,Rosalind,Rosalind_forties_char,female,1205,FINE,Rosalind_FINE_char,forties,old,1205,Real
+FINE_flourbabies_1992,simonmartin,Simon Martin,SimonMartin_13.0_char,male,1936,FINE,Simon_Martin_FINE_char,13,young,2012,Real
+ALMOND_theboywhoswamwithpiranhas_2012,stan,Stanley Stan Potts,StanleyStanPotts_child_char,male,2376,ALMOND,Stanley_Stan_Potts_ALMOND_char,child,young,2379,Real
+FINE_uponcloudnine_2002,otherstol,Stuart Terence Oliver,StuartTerenceOliver_adolescent_char,male,20,FINE,Stuart_Terence_Oliver_FINE_char,adolescent,young,1782,Real
+FINE_troubleintoadpool_2012,aunt,Susan Harlow,SusanHarlow_adult_char,female,533,FINE,Susan_Harlow_FINE_char,adult,old,533,Real
+ROWLING_harrypotterandthedeathlyhallows_2007,trelawney,Sybill Trelawney,SybillTrelawney_adult_char,female,6,ROWLING,Sybill_Trelawney_ROWLING_char,adult,old,922,Real
+FINE_eatingthingsonsticks_2009,uncletristram,Tristram,Tristram_middleadult_char,male,1392,FINE,Tristram_FINE_char,middleadult,old,2266,Real
+FINE_thestonemenagerie_1980,riley,William Riley,WilliamRiley_adult_char,male,747,FINE,William_Riley_FINE_char,adult,old,747,Real
+ROWLING_harrypotterandthedeathlyhallows_2007,moody,Alastor Moody,AlastorMoody_oldadult_char,male,139,ROWLING,Alastor_Moody_ROWLING_char,oldadult,old,444,Madeup
+ROWLING_harrypotterandthedeathlyhallows_2007,alecto,Alecto Carrow,AlectoCarrow_adult_char,female,108,ROWLING,Alecto_Carrow_ROWLING_char,adult,old,149,Madeup
+FINE_charmschool_1999,araminta,Araminta,Araminta_latechild_char,female,527,FINE,Araminta_FINE_char,latechild,young,527,Madeup
+ROWLING_harrypotterandthechamberofsecrets_1998,filch,Argus Filch,ArgusFilch_adult_char,male,156,ROWLING,Argus_Filch_ROWLING_char,adult,old,599,Madeup
+FINE_backonweirdstreet_2018,asim,Asim,Asim_child_char,male,39,FINE,Asim_FINE_char,child,young,73,Madeup
+GAVIN_blackberryblue_2013,chi,Chi,Chi_adolescent_char,male,296,GAVIN,Chi_GAVIN_char,adolescent,young,325,Madeup
+FINE_charmschool_1999,cooki,Cooki,Cooki_latechild_char,female,77,FINE,Cooki_FINE_char,latechild,young,77,Madeup
+GAVIN_thetrackofthewind_1997,dalip,Dalip,Dalip_adolescent_char,male,105,GAVIN,Dalip_GAVIN_char,adolescent,young,105,Madeup
+FINE_stepbywickedstep_1995,dumpa,Dumpa,Dumpa_3.0_char,male,135,FINE,Dumpa_FINE_char,3,young,135,Madeup
+PULLMAN_northernlights_1995,coram,Farder Coram,FarderCoram_oldadult_char,male,532,PULLMAN,Farder_Coram_PULLMAN_char,oldadult,old,603,Madeup
+ROWLING_harrypotterandthedeathlyhallows_2007,greyback,Fenrir Greyback,FenrirGreyback_adult_char,male,156,ROWLING,Fenrir_Greyback_ROWLING_char,adult,old,253,Madeup
+ALMOND_theboywhoclimbedintothemoon_2010,fortuna,Fortuna,Fortuna_middlechild_char,female,184,ALMOND,Fortuna_ALMOND_char,middlechild,young,212,Madeup
+ROWLING_harrypotterandthedeathlyhallows_2007,griphook,Griphook,Griphook_adult_char,male,505,ROWLING,Griphook_ROWLING_char,adult,old,526,Madeup
+PULLMAN_countkarlstein_1982,hannerl,Hannerl,Hannerl_16.0_char,female,62,PULLMAN,Hannerl_PULLMAN_char,16,young,62,Madeup
+ROWLING_harrypotterandthedeathlyhallows_2007,hepzibah,Hepzibah Smith,HepzibahSmith_adult_char,female,1,ROWLING,Hepzibah_Smith_ROWLING_char,adult,old,106,Madeup
+FINE_thesummerhouseloon_1978,ione,Ione Muffet,IoneMuffet_adolescent_char,female,1375,FINE,Ione_Muffet_FINE_char,adolescent,young,1418,Madeup
+PULLMAN_northernlights_1995,iorek,Iorek Byrnison,IorekByrnison_adult_char,male,1261,PULLMAN,Iorek_Byrnison_PULLMAN_char,adult,old,1292,Madeup
+GAVIN_thetrackofthewind_1997,jungli,Jungli,Jungli_child_char,male,158,GAVIN,Jungli_GAVIN_char,child,young,181,Madeup
+ROWLING_harrypotterandthedeathlyhallows_2007,kreacher,Kreacher,Kreacher_oldadult_char,male,348,ROWLING,Kreacher_ROWLING_char,oldadult,old,794,Madeup
+ALMOND_kitswilderness_1999,lak,Lak,Lak_14.0_char,male,493,ALMOND,Lak_ALMOND_char,14,young,493,Madeup
+ALMOND_thefireeaters_2003,losh,Losh Spink,LoshSpink_adolescent_char,male,190,ALMOND,Losh_Spink_ALMOND_char,adolescent,young,190,Madeup
+WILSON_theillustratedmum_1999,luft,Luft,Luft_oldadult_char,female,145,WILSON,Luft_WILSON_char,oldadult,old,145,Madeup
+ROWLING_theickabog_2020,grunterold,Ma Grunter,MaGrunter_oldadult_char,female,165,ROWLING,Ma_Grunter_ROWLING_char,oldadult,old,165,Madeup
+ALMOND_thetaleofangelinobrown_2017,monteverdi,Millicent Monteverdi,MillicentMonteverdi_adult_char,female,202,ALMOND,Millicent_Monteverdi_ALMOND_char,adult,old,202,Madeup
+FINE_crummymummyandme_1988,minna,Minna,Minna_child_char,female,1059,FINE,Minna_FINE_char,child,young,1059,Madeup
+GAVIN_blackberryblue_2013,miskouri,Miskouri,Miskouri_adult_char,female,253,GAVIN,Miskouri_GAVIN_char,adult,old,253,Madeup
+FINE_thesummerhouseloon_1978,father,Muffet,Muffet_41.0_char,male,646,FINE,Muffet_FINE_char,41,old,663,Madeup
+ROWLING_harrypotterandthechamberofsecrets_1998,fletcher,Mundungus Fletcher,MundungusFletcher_adult_char,male,1,ROWLING,Mundungus_Fletcher_ROWLING_char,adult,old,400,Madeup
+COTTRELLBOYCE_theunforgottencoat_2011,nergui,Nergui Tuul,NerguiTuul_child_char,male,452,COTTRELLBOYCE,Nergui_Tuul_COTTRELLBOYCE_char,child,young,452,Madeup
+ALMOND_theboywhoswamwithpiranhas_2012,nitasha,Nitasha,Nitasha_child_char,female,305,ALMOND,Nitasha_ALMOND_char,child,young,305,Madeup
+FINE_stepbywickedstep_1995,robbo,Robbo,Robbo_adolescent_char,male,487,FINE,Robbo_FINE_char,adolescent,young,487,Madeup
+ALMOND_skellig_1998,garageboy,Skellig,Skellig_adult_char,male,796,ALMOND,Skellig_ALMOND_char,adult,old,796,Madeup
+ALMOND_mynameismina_2010,steepy,Steepy,Steepy_adolescent_char,male,82,ALMOND,Steepy_ALMOND_char,adolescent,young,82,Madeup
+GAIMAN_fortunatelythemilk_2013,steg,Steg,Steg_adult_char,female,260,GAIMAN,Steg_GAIMAN_char,adult,old,260,Madeup
+FINE_howtocrosstheroadandnotturnintoapizza_2002,misstalentino,Talentino,Talentino_adult_char,female,99,FINE,Talentino_FINE_char,adult,old,99,Madeup
+WILSON_theillustratedmum_1999,tasha,Tasha,Tasha_10.0_char,female,61,WILSON,Tasha_WILSON_char,10,young,61,Madeup
+FINE_eatingthingsonsticks_2009,titania,Titania,Titania_infant_char,female,21,FINE,Titania_FINE_char,infant,young,367,Madeup
+PULLMAN_thesecretcommonwealth_2019,yozdah,Yozadah,Yozadah_adult_char,female,94,PULLMAN,Yozadah_PULLMAN_char,adult,old,94,Madeup
+ROWLING_careerofevil_2015,zahara,Zahara,Zahara_infant_char,female,75,ROWLING,Zahara_ROWLING_char,infant,young,75,Madeup
+FINE_asuddenglowofgold_1991,zub,Zubaida,Zubaida_adult_char,female,98,FINE,Zubaida_FINE_char,adult,old,98,Madeup
